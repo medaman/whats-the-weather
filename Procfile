@@ -1,1 +1,1 @@
-git push heroku master
+web: node server.js
